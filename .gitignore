@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter
+
+# Analysis outputs (auto-generated)
+buckling_analysis_outputs/
+*.png
+*.jpg
+*.jpeg
+
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.backup
+*~
+.#*
+
+# Large data files (if added)
+*.npy
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Result files (generated during runs)
+results/
+output/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# VS Code specific
+.vscode/settings.json
+.vscode/extensions.json
+
+# MacOS
+.DS_Store
+node_modules/
+.claude/
+*.pptx
+*.js
+package*.json
